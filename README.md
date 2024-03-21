@@ -12,15 +12,10 @@
 [![R](https://skillicons.dev/icons?i=r&theme=light)](https://www.r-project.org/about.html)
 [![HTML5](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 
-
-
-
-
-
 ### ML/ Data Science
-![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-pink?style=for-the-badge&logo=numpy)
-![matplotlib](https://img.shields.io/badge/matplotlib-pink?style=for-the-badge)
+[![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)](https://www.w3schools.com/python/pandas/pandas_intro.asp)
+[![NumPy](https://img.shields.io/badge/numpy-pink?style=for-the-badge&logo=numpy)](https://numpy.org/doc/stable/user/whatisnumpy.html)
+[![matplotlib](https://img.shields.io/badge/matplotlib-pink?style=for-the-badge)](https://matplotlib.org/)
 ![seaborn](https://img.shields.io/badge/seaborn-pink?style=for-the-badge)
 ![beautifulsoap](https://img.shields.io/badge/beautifulsoap-pink?style=for-the-badge)
 
