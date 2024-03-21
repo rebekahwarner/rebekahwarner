@@ -7,8 +7,13 @@
 
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,md,obsidian,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,html,md,obsidian,vscode&theme=light)](https://skillicons.dev)
 ### ML/ Data Science
+![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-pink?style=for-the-badge&logo=numpy)
+![matplotlib](https://img.shields.io/badge/matplotlib-pink?style=for-the-badge)
+![seaborn](https://img.shields.io/badge/seaborn-pink?style=for-the-badge)
+![beautifulsoap](https://img.shields.io/badge/beautifulsoap-pink?style=for-the-badge)
 
 
 <!---
