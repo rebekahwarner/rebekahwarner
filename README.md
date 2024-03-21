@@ -7,7 +7,7 @@
 
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,html,md,obsidian,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,html,md&theme=light)](https://skillicons.dev)
 ### ML/ Data Science
 ![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-pink?style=for-the-badge&logo=numpy)
