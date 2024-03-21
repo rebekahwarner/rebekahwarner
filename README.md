@@ -16,7 +16,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-pink?style=for-the-badge&logo=numpy)](https://numpy.org/doc/stable/user/whatisnumpy.html)
 [![matplotlib](https://img.shields.io/badge/matplotlib-pink?style=for-the-badge)](https://matplotlib.org/)
-![seaborn](https://img.shields.io/badge/seaborn-pink?style=for-the-badge)
+[![seaborn](https://img.shields.io/badge/seaborn-pink?style=for-the-badge)](https://seaborn.pydata.org/)
 ![beautifulsoap](https://img.shields.io/badge/beautifulsoap-pink?style=for-the-badge)
 
 
