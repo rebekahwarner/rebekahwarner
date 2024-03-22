@@ -11,6 +11,7 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
 [![R](https://skillicons.dev/icons?i=r&theme=light)](https://www.r-project.org/about.html)
 [![HTML5](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![Markdown](https://skillicons.dev/icons?i=md&theme=light)](https://www.markdownguide.org/)
 
 ### ML/ Data Science
 [![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
