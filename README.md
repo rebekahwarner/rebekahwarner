@@ -8,7 +8,8 @@
 ## Skills
 ### Languages
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://www.postgresql.org/)
 [![R](https://skillicons.dev/icons?i=r&theme=light)](https://www.r-project.org/about.html)
 [![HTML5](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![Markdown](https://skillicons.dev/icons?i=md&theme=light)](https://www.markdownguide.org/)
